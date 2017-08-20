@@ -1,0 +1,21 @@
+.navbar {
+  display: flex;
+  align-items: center;
+
+  background-color: #28283c;
+  box-shadow: 0 2px 2px rgba(90,90,90,.3);
+  color: white;
+
+  font-family: 'Noto Sans', san-serif;
+  font-weight: bold;
+
+  padding-left: 8px;
+  padding-right: 8px;
+  margin-bottom: 16px;
+
+  min-height: 48px;
+}
+
+.navbar-heading {
+  margin-left: 24px;
+}
